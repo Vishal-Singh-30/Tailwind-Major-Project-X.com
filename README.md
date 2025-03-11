@@ -9,7 +9,7 @@ Here are some screenshots of the project:
 <p float="left">
   <img src="x_1.png" height="500">
   <img src="x_2.png">
-  <img src="x_3.jpg">
+  <img src="x_3.png">
 </p>
 
 ## Features
