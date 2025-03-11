@@ -8,8 +8,8 @@ Here are some screenshots of the project:
 
 <p float="left">
   <img src="x_1.png" height="500">
-  <img src="x_2.png" height="400">
-  <img src="x_3.jpg" height="400">
+  <img src="x_2.png" width="250">
+  <img src="x_3.jpg" width="250">
 </p>
 
 ## Features
