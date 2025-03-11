@@ -7,9 +7,9 @@ This project is a clone of the X.com social media platform, designed to mimic it
 Here are some screenshots of the project:
 
 <p float="left">
-  <img src="x_1.png" width="300">
-  <img src="x_2.png" width="300">
-  <img src="x_3.jpg" width="300">
+  <img src="x_1.png" height="200">
+  <img src="x_2.png" height="200">
+  <img src="x_3.jpg" height="200">
 </p>
 
 ## Features
