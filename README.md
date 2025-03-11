@@ -8,7 +8,7 @@ Here are some screenshots of the project:
 
 ![Screenshot 1](x_1.png)
 ![Screenshot 2](x_2.png)
-![Screenshot 3](x_3.png)
+![Screenshot 3](x_3.jpg)
 
 ## Features
 
