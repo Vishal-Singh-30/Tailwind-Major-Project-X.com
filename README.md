@@ -72,4 +72,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vishal Singh - [@GID30N_x](https://x.com/GID30N_x) - mailtovishalsingh30@gmail.com
 
-Project Link: [https://github.com/your-username/x.com-clone](https://github.com/your-username/x.com-clone)
+Project Link: [https://x-by-vs.netlify.app/](https://x-by-vs.netlify.app/)
