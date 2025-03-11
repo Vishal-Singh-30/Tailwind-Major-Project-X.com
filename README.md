@@ -8,7 +8,7 @@ Here are some screenshots of the project:
 
 <p float="left">
   <img src="x_1.png" height="500">
-  <img src="x_2.png" height="250">
+  <img class="text-centre" src="x_2.png">
   <img src="x_3.jpg" height="250">
 </p>
 
